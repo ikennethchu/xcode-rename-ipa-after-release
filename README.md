@@ -1,5 +1,5 @@
 # Update
-As I found an amazing toolchain for this renmae purpose and much more!
+As I found an amazing toolchain for this rename purpose and much more!
 This is "fastlane" https://fastlane.tools/
 Give up this script and let's get into fastlane! 🌈 🤘
 
