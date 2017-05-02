@@ -1,3 +1,8 @@
+# Update
+As I found an amazing toolchain for this renmae purpose and much more!
+This is "fastlane" https://fastlane.tools/
+Give up this script and let's get into fastlane! 🌈 🤘
+
 # xcode-rename-ipa-after-release
 This is a ruby script keep watching the build folder and rename the ipa file with application info.
 
